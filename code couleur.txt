@@ -1,0 +1,52 @@
+Background : 
+	old: *#f4f4f4
+	New: #ffffcc 
+	complementary : #ccccff
+	shades:#e5e5b7
+			#cccca3
+			#b2b28e
+			#99997a
+			#7f7f66
+			#666651
+			#4c4c3d
+			#333328
+	Tints : 
+			#ffffcc
+			#ffffd1
+			#ffffd6
+			#ffffdb
+			#ffffe0
+			#ffffe5
+			#ffffea
+			#ffffef
+			#fffff4
+			#fffff9
+			#ffffff
+
+#e8491d
+#D2691E
+#556a77
+#4a5d68
+#858d92
+#717a80
+#49545c
+#35424a
+#c2c6c8
+#d6d9da
+#eaecec
+
+#ff0000
+#e50000
+#cc0000
+#b20000
+#990000
+#7f0000
+#660000
+
+#ff0000
+#ff1919
+#ff3232
+#ff4c4c
+#ff6666
+#ff7f7f
+#ff9999
